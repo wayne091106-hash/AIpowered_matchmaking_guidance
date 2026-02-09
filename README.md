@@ -70,7 +70,3 @@ A voice-to-voice interaction system designed for those who want to master the ar
 ## ⚠️ 警語 (Disclaimer)
 
 本程式僅供技術交流與娛樂使用。若因使用本軍師提供的「油話」導致相親失敗或被對方封鎖，本作者概不負責。
-
----
-
-**需要我幫你把這段文字直接寫入一個 `README.md` 檔案供你下載嗎？**
